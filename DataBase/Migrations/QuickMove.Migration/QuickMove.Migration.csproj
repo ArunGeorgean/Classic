@@ -48,6 +48,7 @@
     <Compile Include="Common\CommonFunctions.cs" />
     <Compile Include="Common\Constants.cs" />
     <Compile Include="Common\DatabaseX.cs" />
+    <Compile Include="NewEmptyClass.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
