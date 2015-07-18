@@ -1,0 +1,12 @@
+E:\QMGlobeDev\DataBase2008\QuickMove.Migration\bin\Release\Migrator2008.dll
+E:\QMGlobeDev\DataBase2008\QuickMove.Migration\bin\Release\Migrator2008.pdb
+E:\QMGlobeDev\DataBase2008\QuickMove.Migration\bin\Release\Migrator.Framework.dll
+E:\QMGlobeDev\DataBase2008\QuickMove.Migration\obj\Release\ResolveAssemblyReference.cache
+E:\QMGlobeDev\DataBase2008\QuickMove.Migration\obj\Release\Migrator2008.dll
+E:\QMGlobeDev\DataBase2008\QuickMove.Migration\obj\Release\Migrator2008.pdb
+E:\QMGlobeDev\DataBase2010\QuickMove.Migration\bin\Release\Migrator2008.dll
+E:\QMGlobeDev\DataBase2010\QuickMove.Migration\bin\Release\Migrator2008.pdb
+E:\QMGlobeDev\DataBase2010\QuickMove.Migration\bin\Release\Migrator.Framework.dll
+E:\QMGlobeDev\DataBase2010\QuickMove.Migration\obj\Release\ResolveAssemblyReference.cache
+E:\QMGlobeDev\DataBase2010\QuickMove.Migration\obj\Release\Migrator2008.dll
+E:\QMGlobeDev\DataBase2010\QuickMove.Migration\obj\Release\Migrator2008.pdb

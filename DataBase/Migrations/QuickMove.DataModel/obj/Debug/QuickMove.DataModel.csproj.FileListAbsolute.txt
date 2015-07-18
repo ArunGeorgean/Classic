@@ -1,0 +1,5 @@
+D:\Pitch\Demo\QuickMove.DataModel\bin\Debug\QuickMove.DataModel.dll
+D:\Pitch\Demo\QuickMove.DataModel\bin\Debug\QuickMove.DataModel.pdb
+D:\Pitch\Demo\QuickMove.DataModel\obj\Debug\QuickMove.DataModel.dll
+D:\Pitch\Demo\QuickMove.DataModel\obj\Debug\QuickMove.DataModel.pdb
+D:\Pitch\Demo\QuickMove.DataModel\obj\Debug\QuickMove.DataModel.csprojResolveAssemblyReference.cache
